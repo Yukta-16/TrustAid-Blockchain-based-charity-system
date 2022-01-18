@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+  }
+
 .header .header-top {
     background: #053d57 none repeat scroll 0 0;
     height: 50px;
@@ -27,6 +31,7 @@
     margin: 0;
     padding: 0;
 }
+
 
 .header .header-top .join-us p a {
     background: #053d57 none repeat scroll 0 0;
@@ -334,7 +339,7 @@
     max-width: 700px;
     margin: 0 auto;
     height: 10px;
-    background-color: #1eb464;
+    background-color: #053d57;
 }
 
 .donate_section .progress-bar {
@@ -509,7 +514,7 @@
     text-align: center;
 }
 
-.our_cuauses h2. {
+.our_cuauses h2 {
     color: #053d57;
     font-family: "Roboto", sans-serif;
     font-size: 32px;
