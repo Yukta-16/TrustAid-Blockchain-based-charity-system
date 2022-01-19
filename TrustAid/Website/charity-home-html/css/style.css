@@ -1,16 +1,16 @@
 @import url("https://fonts.googleapis.com/css?family=Kaushan+Script");
 
 :root {
-  --mainPink: #ef7998;
-  --mainYellow: #f9e494;
+  --mainPink: #053d57;
+  --mainYellow: #053d57;
   --mainWhite: #fff;
   --mainBlack: #000;
-  --yellowTrans: rgba(249, 228, 148, 0.5);
-  --mainGrey: rgb(238, 238, 238);
+  --yellowTrans:rgb(249, 228, 148, 0.5);
+  --mainGrey: #053d57;
 }
 
 body {
-  font-family: "Kaushan Script", cursive;
+  font-family: 'Roboto', sans-serif;;
   background: var(--mainWhite);
   color: var(--mainBlack);
 }
