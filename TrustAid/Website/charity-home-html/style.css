@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 html {
     scroll-behavior: smooth;
   }
@@ -18,7 +19,7 @@ html {
     font-size: 14px;
     font-weight: 400;
     text-decoration: none;
-    font-family: 'Roboto', sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 
 .header .header-top .contact p span {
@@ -41,7 +42,7 @@ html {
     font-weight: 500;
     padding: 0 40px;
     text-decoration: none;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 
 .header .header-bottom .menu {
@@ -55,7 +56,7 @@ html {
 
 .header .header-bottom .menu ul li a {
     color: #000;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 20px;
     font-weight: 400;
     margin-right: 0;
@@ -133,7 +134,7 @@ html {
 
 .main-logo>h2 {
     display: inline-block;
-    font-family: 'Rubik Beastly', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 35px;
     vertical-align: bottom;
     font-weight: bold;
@@ -155,13 +156,13 @@ html {
     color: #fff;
     font-size: 35px;
     font-weight: bold;
-    font-family: 'Roboto', sans-serif;
+    font-family: "Poppins", sans-serif;
     margin-top: 210px;
 }
 
 .carosal-area .text>p {
     color: #fff;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 15px;
     font-weight: 400;
     line-height: 30px;
@@ -178,7 +179,7 @@ html {
     border: 1px solid #fff;
     border-radius: 25px;
     color: #fff;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 16px;
     font-weight: 500;
     padding: 15px 40px;
@@ -230,7 +231,7 @@ html {
 /*
 .wrapper section>h2 {
     color: #053d57;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 32px;
     font-weight: 700;
     margin: 115px auto 50px;
@@ -242,7 +243,7 @@ html {
 
 .wrapper section>h2 {
     color: #053d57;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 32px;
     font-weight: 700;
     margin: 115px auto 50px;
@@ -260,12 +261,12 @@ html {
     height: 2px;
     left: 48%;
     position: absolute;
-    width: 75px;
+    width: 80px;
     margin: 0 auto;
 }
 
 .wrapper section>p {
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 15px;
     font-weight: 400;
     line-height: 30px;
@@ -311,7 +312,7 @@ html {
 
 .our_activity .single-Promo h2 a {
     text-decoration: none;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 22px;
     font-weight: 500;
     color: #053d57;
@@ -319,7 +320,7 @@ html {
 
 .our_activity .single-Promo p {
     color: #053d57;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 15px;
     font-weight: 400;
     line-height: 26px;
@@ -356,7 +357,7 @@ html {
 }
 
 .donate_section h4 {
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 20px;
     font-weight: 500;
     color: #fff;
@@ -365,7 +366,7 @@ html {
 
 .donate_section h3 {
     color: #fff;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 30px;
     font-weight: 700;
     margin-bottom: 35px;
@@ -374,7 +375,7 @@ html {
 
 .donate_section p {
     color: #fff;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 15px;
     font-weight: 400;
     line-height: 30px;
@@ -425,7 +426,7 @@ html {
     background: #fff none repeat scroll 0 0;
     border-radius: 30px;
     color: #053d57;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 16px;
     font-weight: 500;
     padding: 15px 40px;
@@ -443,7 +444,7 @@ html {
 
 .events_section_area .events_single p {
     font-size: 14px;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     margin-top: 14px;
     font-weight: 400;
     position: relative;
@@ -469,7 +470,7 @@ html {
 }
 
 .events_section_area .events_single h3 {
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 20px;
     font-weight: 700;
     margin-top: 70px;
@@ -483,7 +484,7 @@ html {
 
 .events_section_area .events_single h6 {
     color: #6f6f6f;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 15px;
     font-weight: 400;
     line-height: 32px;
@@ -507,7 +508,7 @@ html {
 
 .our_cuauses .our_cuauses_single .item h2 {
     color: #053d57;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 20px;
     font-weight: 700;
     margin: 110px 0 40px;
@@ -515,7 +516,7 @@ html {
 
 .our_cuauses .our_cuauses_single .item p {
     color: #595959;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 15px;
     font-weight: 400;
     margin: 0;
@@ -568,7 +569,7 @@ html {
 
 .our_cuauses h2 {
     color: #053d57;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 32px;
     font-weight: 700;
     margin: 115px auto 50px;
@@ -597,7 +598,7 @@ html {
 }
 
 .wrapper .our_cuauses>p {
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 15px;
     font-weight: 400;
     line-height: 30px;
@@ -608,7 +609,7 @@ html {
     background: #fff none repeat scroll 0 0;
     border-radius: 30px;
     color: #053d57;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 16px;
     font-weight: 500;
     padding: 15px 40px;
@@ -678,7 +679,7 @@ html {
 .donors .donors_input h2,
 .donors .donors_image h2 {
     color: #fff;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 22px;
     font-weight: 500;
     margin: 75px 0 50px;
@@ -691,7 +692,7 @@ html {
 
 .donors .donors_input p {
     color: #fff;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 15px;
     font-weight: 400;
     margin: 35px 0;
@@ -719,7 +720,7 @@ html {
 }
 
 .donors .donors_input h5 input[type="text"] {
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 15px;
     font-weight: 400;
     color: #fff;
@@ -727,7 +728,7 @@ html {
 }
 
 .donors .donors_input h5 input[type="email"] {
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 15px;
     font-weight: 400;
     color: #fff;
@@ -739,7 +740,7 @@ html {
     border: 2px solid #053d57;
     border-radius: 10px;
     color: #053d57;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 15px;
     font-weight: 500;
     margin-top: 45px;
@@ -758,7 +759,7 @@ html {
     padding: 17px 20px;
     border-radius: 10px;
     border: 1px solid #fff;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 15px;
     font-weight: 400;
     color: #fff;
@@ -783,13 +784,13 @@ html {
 }
 
 .donors .donors_image .item h3 {
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 20px;
     font-weight: 500;
 }
 
 .donors .donors_image .item p {
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 15px;
     font-weight: 400;
     margin: 10px 0 75px;
@@ -836,14 +837,14 @@ html {
 }
 
 .volunteer_area .item .text h3 {
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 18px;
     font-weight: 500;
     margin: 0;
 }
 
 .volunteer_area .item .text h6 {
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 14px;
     font-weight: 400;
     margin: 10px 0 0;
@@ -856,7 +857,7 @@ html {
 }
 
 .volunteer_area .item .text p {
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 15px;
     font-weight: 400;
     margin: 10px 0 0;
@@ -922,7 +923,7 @@ html {
 
 .carosal_bottom .item p {
     color: #fff;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 30px;
@@ -940,7 +941,7 @@ html {
 
 .carosal_bottom .item h4 {
     color: #fff;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 16px;
     font-weight: 700;
     margin-top: 13px;
@@ -948,7 +949,7 @@ html {
 }
 
 .carosal_bottom .item h6 {
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 15px;
     font-weight: 400;
     color: #fff;
@@ -977,7 +978,7 @@ html {
 }
 
 .letast_news .single_news .texts p.date a {
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 15px;
     font-weight: 400;
     text-decoration: none;
@@ -986,7 +987,7 @@ html {
 
 .letast_news .single_news .texts h3 {
     color: #000;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 16px;
     font-weight: 500;
     line-height: 27px;
@@ -995,7 +996,7 @@ html {
 
 .letast_news .single_news .texts p.texts {
     color: #000;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 15px;
     font-weight: 400;
     line-height: 20px;
@@ -1005,7 +1006,7 @@ html {
 
 .letast_news .single_news .texts h3 a {
     color: #000;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 16px;
     font-weight: 500;
     line-height: 20px;
@@ -1042,7 +1043,7 @@ html {
 
 .footer .footer-charity-text h2 {
     color: #fff;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 25px;
     font-weight: 700;
     margin: 0 0 27px;
@@ -1050,7 +1051,7 @@ html {
 
 .footer .footer-charity-text p {
     color: rgb(91, 91, 91);
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 15px;
     font-weight: 400;
     line-height: 30px;
@@ -1072,7 +1073,7 @@ html {
 
 .footer .footer-text h3 {
     color: #fff;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 20px;
     font-weight: 700;
     margin: 8px 0 25px;
@@ -1100,7 +1101,7 @@ html {
 
 .footer .footer-text.one ul li a {
     color: rgb(91, 91, 91);
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 15px;
     font-weight: 400;
     text-decoration: none;
@@ -1108,7 +1109,7 @@ html {
 
 .footer .footer-text.two ul li a {
     color: rgb(91, 91, 91);
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 15px;
     font-weight: 400;
     text-decoration: none;
@@ -1128,7 +1129,7 @@ html {
 .footer .footer_bottom p {
     background: #232323 none repeat scroll 0 0;
     color: #cacaca;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 15px;
     font-weight: 400;
     height: 75px;
@@ -1165,14 +1166,14 @@ html {
 
 .block-wrapper .block p.counter-wrapper span {
     color: #fff;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 35px;
     font-weight: 700;
 }
 
 .block-wrapper .block p.text-block {
     color: #fff;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 15px;
     font-weight: 400;
 }
