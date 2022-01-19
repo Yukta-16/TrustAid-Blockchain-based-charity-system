@@ -9,7 +9,8 @@
 body{
   min-height: 100vh;
   width: 100%;
-  background: #c8e8e9;
+  background: #4f7689;
+  background-image: url("img/donate-bg.png");
   display: flex;
   align-items: center;
   justify-content: center;
@@ -44,7 +45,7 @@ body{
   right: -15px;
   top: 50%;
   transform: translateY(-50%);
-  background: #afafb6;
+  background: #053d57;
 }
 .content .left-side .details{
   margin: 14px;
@@ -52,7 +53,7 @@ body{
 }
 .content .left-side .details i{
   font-size: 30px;
-  color: #3e2093;
+  color: #053d57;
   margin-bottom: 10px;
 }
 .content .left-side .details .topic{
@@ -62,7 +63,7 @@ body{
 .content .left-side .details .text-one,
 .content .left-side .details .text-two{
   font-size: 14px;
-  color: #afafb6;
+  color: #053d57;
 }
 
 
@@ -73,7 +74,7 @@ body{
 .content .right-side .topic-text{
   font-size: 23px;
   font-weight: 600;
-  color: #3e2093;
+  color: #053d57;
 }
 .right-side .input-box{
   height: 50px;
@@ -109,7 +110,7 @@ body{
   border: none;
   padding: 8px 16px;
   border-radius: 6px;
-  background: #3e2093;
+  background: #053d57;
   cursor: pointer;
   transition: all 0.3s ease;
 }
