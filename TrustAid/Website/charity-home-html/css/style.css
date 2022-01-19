@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
 :root {
   --mainPink: #053d57;
   --mainYellow: #053d57;
@@ -7,7 +7,7 @@
   --yellowTrans:rgb(249, 228, 148, 0.5);
   --mainGrey: #053d57;
 }
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 
 
 body {
